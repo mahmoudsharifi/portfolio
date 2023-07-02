@@ -120,6 +120,7 @@ section {
   width: 100%;
   padding: 20px;
   border-bottom: thin solid lightgray;
+  background-color: rgb(79, 79, 255);
 }
 
 .page-header__item {
